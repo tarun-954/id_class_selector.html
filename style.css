@@ -1,0 +1,36 @@
+/*  adding the color to the background */
+body {
+    background-color:silver;
+
+}
+
+
+
+
+/* adding the color to the text */
+
+
+
+/*  accessing the id  */
+#line3 {
+    color:green;
+/* id is always unique  */
+}
+
+
+
+/* accessing the class  */
+.yellow_color{
+    color:yellow;
+/* class is not unique */
+/* class is reuesable  */
+}
+
+
+
+.bold{
+    color:aqua;
+    font-weight: bold;
+    font-size: larger;
+
+}
